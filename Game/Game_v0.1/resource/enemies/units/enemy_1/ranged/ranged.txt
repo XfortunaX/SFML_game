@@ -1,0 +1,4 @@
+damage: 4
+kind_damage: magic_arcane
+range: 3
+effects: 1

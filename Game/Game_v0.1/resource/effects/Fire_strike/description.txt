@@ -1,0 +1,4 @@
+chance_act: 50
+kind: 5
+damage: 2
+kind_damage: 1

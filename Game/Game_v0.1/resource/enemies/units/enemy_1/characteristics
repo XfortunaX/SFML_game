@@ -1,0 +1,15 @@
+move	2
+hp		20
+mp		15
+
+4 		at_bl
+0 		at_dl
+noo 
+0 	armor
+0 	res_fire
+0	res_frost
+0 	res_light
+0 	res_dark
+0 	res_arcane
+noo
+1 	spell

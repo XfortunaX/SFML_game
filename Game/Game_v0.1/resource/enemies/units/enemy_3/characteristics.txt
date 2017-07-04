@@ -1,0 +1,13 @@
+Гоблин		name
+2 		move
+8 		hp
+0 		mp
+2 		at_bl
+0 		at_dl
+
+0 		armor
+0 		res_fire
+0		res_frost
+0 		res_light
+0 		res_dark
+0 		res_arcane

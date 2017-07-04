@@ -1,0 +1,9 @@
+kind_elem: magic_fire
+kind: 1
+kind_target: 2 1
+damage: 12
+damage_area: 6
+cost_mp: 15
+cooldown: 5
+range: 5
+effects: 0

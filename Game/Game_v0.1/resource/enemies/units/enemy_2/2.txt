@@ -1,0 +1,4 @@
+2 		id_enem
+archer		name
+1		size X
+1		size Y

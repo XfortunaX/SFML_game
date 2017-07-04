@@ -1,0 +1,4 @@
+damage: 3
+kind_damage: physical
+range: 1
+effects: 0

@@ -1,0 +1,7 @@
+chance_act: 50
+kind: 1
+time: 2
+damage: 1
+increase: 1
+kind_damage: 1
+chance: 100

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1486139258 source:/home/sergey/Документы/My_project/Game/Map_generator/src/map_generator.cpp
+	"map_generator.h"
+
+1486134987 /home/sergey/Документы/My_project/Game/Map_generator/include/map_generator.h
+	<string>
+	<fstream>
+	<iostream>
+	"basic_funcs.h"
+
+1486139269 source:/home/sergey/Документы/My_project/Game/Map_generator/main.cpp
+	<SFML/Graphics.hpp>
+	"include/map_generator.h"
+
+1486119980 /home/sergey/Документы/My_project/Game/Map_generator/include/basic_funcs.h
+	<string>
+
+1486119959 source:/home/sergey/Документы/My_project/Game/Map_generator/src/basic_funcs.cpp
+	"basic_funcs.h"
+

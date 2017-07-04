@@ -1,0 +1,7 @@
+1 - Sword
+2 - Axe
+3 - Mace
+4 - Staff
+5 - Dagger
+6 - Bow
+7 - Other

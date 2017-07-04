@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Game_v0.1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Game_v0" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add library="sfml-graphics" />
+					<Add library="sfml-window" />
+					<Add library="sfml-system" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Game_v0" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="sfml-graphics" />
+					<Add library="sfml-window" />
+					<Add library="sfml-system" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=c++11" />
+		</Compiler>
+		<Unit filename="cb.bmp" />
+		<Unit filename="include/basic_funcs.h" />
+		<Unit filename="include/characteristics.h" />
+		<Unit filename="include/enemies_squad.h" />
+		<Unit filename="include/enemy.h" />
+		<Unit filename="include/game.h" />
+		<Unit filename="include/group_panel.h" />
+		<Unit filename="include/hero.h" />
+		<Unit filename="include/main_menu.h" />
+		<Unit filename="include/map_battle.h" />
+		<Unit filename="include/map_global.h" />
+		<Unit filename="include/menu.h" />
+		<Unit filename="include/object.h" />
+		<Unit filename="include/panel.h" />
+		<Unit filename="include/player.h" />
+		<Unit filename="include/spell.h" />
+		<Unit filename="include/spells_hero.h" />
+		<Unit filename="include/tile.h" />
+		<Unit filename="include/view.h" />
+		<Unit filename="include/weapon.h" />
+		<Unit filename="include/weapons_hero.h" />
+		<Unit filename="include/world.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/basic_funcs.cpp" />
+		<Unit filename="src/characteristics.cpp" />
+		<Unit filename="src/enemies_squad.cpp" />
+		<Unit filename="src/enemy.cpp" />
+		<Unit filename="src/game.cpp" />
+		<Unit filename="src/group_panel.cpp" />
+		<Unit filename="src/hero.cpp" />
+		<Unit filename="src/main_menu.cpp" />
+		<Unit filename="src/map_battle.cpp" />
+		<Unit filename="src/map_global.cpp" />
+		<Unit filename="src/menu.cpp" />
+		<Unit filename="src/object.cpp" />
+		<Unit filename="src/panel.cpp" />
+		<Unit filename="src/player.cpp" />
+		<Unit filename="src/spell.cpp" />
+		<Unit filename="src/spells_hero.cpp" />
+		<Unit filename="src/tile.cpp" />
+		<Unit filename="src/view.cpp" />
+		<Unit filename="src/weapon.cpp" />
+		<Unit filename="src/weapons_hero.cpp" />
+		<Unit filename="src/world.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

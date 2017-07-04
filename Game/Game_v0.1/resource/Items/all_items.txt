@@ -1,0 +1,2 @@
+1 - Weapon
+2 - Armor

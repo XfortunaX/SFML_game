@@ -1,0 +1,4 @@
+72    size_Y
+72    size_X
+48    X
+40    Y

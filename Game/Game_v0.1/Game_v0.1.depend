@@ -1,0 +1,154 @@
+# depslib dependency file v1.0
+1485443271 source:/home/sergey/Документы/My_project/Game/Game_v0.1/main.cpp
+	"include/game.h"
+
+1486731396 source:/home/sergey/Документы/My_project/Game/Game_v0.1/src/enemy.cpp
+	"enemy.h"
+
+1486726843 /home/sergey/Документы/My_project/Game/Game_v0.1/include/enemy.h
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	<iostream>
+	"basic_funcs.h"
+	"characteristics.h"
+
+1485439390 source:/home/sergey/Документы/My_project/Game/Game_v0.1/src/group_panel.cpp
+	"group_panel.h"
+
+1485439390 /home/sergey/Документы/My_project/Game/Game_v0.1/include/group_panel.h
+
+1486118381 source:/home/sergey/Документы/My_project/Game/Game_v0.1/src/hero.cpp
+	"hero.h"
+
+1485589120 /home/sergey/Документы/My_project/Game/Game_v0.1/include/hero.h
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	<iostream>
+	"basic_funcs.h"
+
+1485443308 source:/home/sergey/Документы/My_project/Game/Game_v0.1/src/main_menu.cpp
+	"main_menu.h"
+
+1485443294 /home/sergey/Документы/My_project/Game/Game_v0.1/include/main_menu.h
+	<SFML/Graphics.hpp>
+
+1485438872 source:/home/sergey/Документы/My_project/Game/Game_v0.1/src/map_battle.cpp
+	"map_battle.h"
+
+1485438872 /home/sergey/Документы/My_project/Game/Game_v0.1/include/map_battle.h
+
+1487246018 source:/home/sergey/Документы/My_project/Game/Game_v0.1/src/map_global.cpp
+	"map_global.h"
+
+1486996139 /home/sergey/Документы/My_project/Game/Game_v0.1/include/map_global.h
+	<fstream>
+	"tile.h"
+	"view.h"
+	"hero.h"
+	"enemies_squad.h"
+	"object.h"
+
+1485440444 source:/home/sergey/Документы/My_project/Game/Game_v0.1/src/menu.cpp
+	"menu.h"
+
+1485440444 /home/sergey/Документы/My_project/Game/Game_v0.1/include/menu.h
+
+1486123670 source:/home/sergey/Документы/My_project/Game/Game_v0.1/src/object.cpp
+	"object.h"
+
+1486123658 /home/sergey/Документы/My_project/Game/Game_v0.1/include/object.h
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	<iostream>
+	"basic_funcs.h"
+
+1485438804 source:/home/sergey/Документы/My_project/Game/Game_v0.1/src/panel.cpp
+	"panel.h"
+
+1485438804 /home/sergey/Документы/My_project/Game/Game_v0.1/include/panel.h
+
+1485438235 source:/home/sergey/Документы/My_project/Game/Game_v0.1/src/player.cpp
+	"player.h"
+
+1485438235 /home/sergey/Документы/My_project/Game/Game_v0.1/include/player.h
+
+1485439411 source:/home/sergey/Документы/My_project/Game/Game_v0.1/src/spell.cpp
+	"spell.h"
+
+1485439411 /home/sergey/Документы/My_project/Game/Game_v0.1/include/spell.h
+
+1485439435 source:/home/sergey/Документы/My_project/Game/Game_v0.1/src/spells_hero.cpp
+	"spells_hero.h"
+
+1485439435 /home/sergey/Документы/My_project/Game/Game_v0.1/include/spells_hero.h
+
+1486738711 source:/home/sergey/Документы/My_project/Game/Game_v0.1/src/tile.cpp
+	"tile.h"
+
+1486736910 /home/sergey/Документы/My_project/Game/Game_v0.1/include/tile.h
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	<iostream>
+	"basic_funcs.h"
+
+1485439447 source:/home/sergey/Документы/My_project/Game/Game_v0.1/src/weapon.cpp
+	"weapon.h"
+
+1485439447 /home/sergey/Документы/My_project/Game/Game_v0.1/include/weapon.h
+
+1485439457 source:/home/sergey/Документы/My_project/Game/Game_v0.1/src/weapons_hero.cpp
+	"weapons_hero.h"
+
+1485439457 /home/sergey/Документы/My_project/Game/Game_v0.1/include/weapons_hero.h
+
+1485438208 source:/home/sergey/Документы/My_project/Game/Game_v0.1/src/world.cpp
+	"world.h"
+
+1485438208 /home/sergey/Документы/My_project/Game/Game_v0.1/include/world.h
+
+1485584960 /home/sergey/Документы/My_project/Game/Game_v0.1/include/game.h
+	"main_menu.h"
+	"map_global.h"
+	"map_battle.h"
+
+1486730190 source:/home/sergey/Документы/My_project/Game/Game_v0.1/src/game.cpp
+	"game.h"
+
+1485448081 /home/sergey/Документы/My_project/Game/Game_v0.1/include/basic_funcs.h
+	<string>
+
+1485960119 source:/home/sergey/Документы/My_project/Game/Game_v0.1/src/basic_funcs.cpp
+	"basic_funcs.h"
+
+1485964468 /home/sergey/Документы/My_project/Game/Game_v0.1/include/view.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1486049238 source:/home/sergey/Документы/My_project/Game/Game_v0.1/src/view.cpp
+	"view.h"
+
+1486738685 source:/home/sergey/Документы/My_project/Game/Game_v0.1/src/enemies_squad.cpp
+	"enemies_squad.h"
+
+1486738466 /home/sergey/Документы/My_project/Game/Game_v0.1/include/enemies_squad.h
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	<iostream>
+	"enemy.h"
+	"basic_funcs.h"
+
+1486727048 /home/sergey/Документы/My_project/Game/Game_v0.1/include/characteristics.h
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	<iostream>
+	"basic_funcs.h"
+
+1486729427 source:/home/sergey/Документы/My_project/Game/Game_v0.1/src/characteristics.cpp
+	"characteristics.h"
+

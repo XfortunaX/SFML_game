@@ -1,0 +1,4 @@
+num_var_fr: 3
+usuall
+active
+used

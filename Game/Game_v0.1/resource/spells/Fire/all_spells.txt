@@ -1,0 +1,7 @@
+1 - Fireball 
+2 - Pyroblast
+3 - Flame_cone
+4 - Fire_ray
+5 - Call_elemental
+6 - Fiery_emplosion
+7 - Flame_ring
